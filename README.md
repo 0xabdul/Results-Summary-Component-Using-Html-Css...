@@ -5,7 +5,7 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 ## Links &#128269;
 <ul>
 <li>Live Site URL: <a href="https://0xabdul.github.io/Results-Summary-Component-Using-Html-Css.../">Click Here</a></li><br>
-<li>Solution URL: <a href="">Click Here</a></li>
+<li>Solution URL: <a href="https://www.frontendmentor.io/solutions/resultssummarycomponentusinghtmlcss-FfJL6OxJQ7">Click Here</a></li>
 </ul><br>
 
 ## Built with &#128295;
