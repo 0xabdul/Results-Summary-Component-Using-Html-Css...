@@ -4,8 +4,8 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 ## Preview<br>
 ## Links &#128269;
 <ul>
-<li>Live Site URL: <a href="https://0xabdul.github.io/Social-Proof-Section/">Click Here</a></li><br>
-<li>Solution URL: <a href="https://www.frontendmentor.io/solutions/social-proof-section-lbk9Z16k6r">Click Here</a></li>
+<li>Live Site URL: <a href="">Click Here</a></li><br>
+<li>Solution URL: <a href="">Click Here</a></li>
 </ul><br>
 
 ## Built with &#128295;
@@ -30,6 +30,7 @@ This is a solution to the [Results summary component challenge on Frontend Mento
   <li>In this project is most responsive every 100px</li>
   <li> clean code</li>
   <li>I using in this project flex</li>
+  <li>Css Animations</li>
   </ul><br>
 
 
